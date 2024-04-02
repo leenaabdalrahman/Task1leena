@@ -1,0 +1,13 @@
+.Services{
+    background-color: white;
+    text-align: center;    
+}
+p{
+        color: black;
+    }
+.service{
+    display: inline-block;
+    width:16%;
+    background-color:white;
+    height: fit-conten;
+}
